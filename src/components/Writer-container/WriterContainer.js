@@ -12,8 +12,13 @@ const WriterContainer = () => {
             .then(data => setWriters(data))
     }, []);
     const handleClickButton = (writer) => {
-        const newFavorite = [...favorite, writer];
-        setFavorite(newFavorite);
+
+        if (favorite.some(fav => fav.id === writer.id)) {
+            alert("Writer already added!!!.");
+        } else {
+            const newFavorite = [...favorite, writer];
+            setFavorite(newFavorite);
+        }
     }
     return (
         <div className="writers-container">

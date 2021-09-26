@@ -4,4 +4,9 @@
     width: 90%;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     padding: 5px;
+    background-color: #F9D5A7;
+}
+.writer-name{
+    padding: 10px 4px;
+    font-weight: 500;
 }

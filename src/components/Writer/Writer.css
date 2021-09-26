@@ -2,13 +2,13 @@
     border-radius: 6px;
     margin: 1rem;
     width: 290px;
-    background-color: #D9D9D9;
+    background-color: #FEF1E6;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     padding: 15px;
 }
 .writer-img img{
     width: 160px;
-    height: 180px;
+    height: 160px;
     border-radius: 50%;
     border: 1px solid lightseagreen;
 }
@@ -17,9 +17,12 @@
     border:none;
     color:#ffffff;
     padding: 8px 20px;
-    background: linear-gradient(to bottom right, #C90A6D, #FF48A0);
+    background: linear-gradient(to bottom right, #80a6df, #4234c9);
     font-size:14px;
     border-radius:20px;
     box-shadow: 0 13px 26px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.16);
     cursor: pointer;
+  }
+  .icon-color{
+      color: #e4b32c;
   }

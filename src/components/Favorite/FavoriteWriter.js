@@ -15,18 +15,21 @@ const FavoriteWriter = (props) => {
     }
 
     return (
-        <div className="favorite-writer">
-            <h3>Total Favorite Writer: {favorites.length}</h3>
-            <p>Total Book: {TotalBooks}</p>
-            {/* <p>{names.join('<br>')}</p> */}
-            {
-                names.map((name, i) => (
-                    <p key={i}>
-                        {name}
-                        <br />
-                    </p>
-                ))
-            }
+        <div>
+            <div className="favorite-writer">
+                <h3>Total Favorite Writers: {favorites.length}</h3>
+                <p>Total Books: {TotalBooks}</p>
+            </div>
+            <div>
+                {
+                    names.map((name, i) => (
+                        <p key={i} className="writer-name favorite-writer">
+                            {name}
+                            <br />
+                        </p>
+                    ))
+                }
+            </div>
         </div >
     );
 };

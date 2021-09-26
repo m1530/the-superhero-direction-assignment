@@ -1,8 +1,11 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faHeart } from '@fortawesome/free-solid-svg-icons'
 import './Writer.css';
 
 const Writer = (props) => {
     //console.log(props.writer);
+    const icon = <FontAwesomeIcon className="icon-color" icon={faHeart} />
     const { name, img, language, numberOfBook, majorWork, maxEstSales } = props.writer;
 
     return (
@@ -16,7 +19,7 @@ const Writer = (props) => {
                 <p>Number of books: {numberOfBook}</p>
                 <p>Major Work: {majorWork}</p>
                 <p>Max Est. sales: {maxEstSales}</p>
-                <button onClick={() => props.handleClick(props.writer)} className="make-favorite-btn">Make Favorite</button>
+                <button onClick={() => props.handleClick(props.writer)} className="make-favorite-btn">{icon} Add to Favorite</button>
             </div>
         </div>
     );
