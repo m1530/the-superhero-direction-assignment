@@ -1,0 +1,9 @@
+.writers-container{
+    display: grid;
+    grid-template-columns:  3fr 1fr;
+    width: 100%;
+}
+.writers{
+    display: grid;
+    grid-template-columns:  repeat(3, 1fr);
+}
