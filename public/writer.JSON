@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "William Shakespeare",
+        "nationality": "English",
+        "img": "https://i.ibb.co/WDv6GqF/William-Shakespeare.jpg",
+        "numberOfBook": 42,
+        "majorWork": "Macbeth",
+        "maxEstSales": "4 billion",
+        "language": "English"
+    },
+    {
+        "id": 2,
+        "name": "Barbara Cartland",
+        "nationality": "English",
+        "img": "https://i.ibb.co/b71TL3K/Barbara-Cartland.jpg",
+        "numberOfBook": 723,
+        "majorWork": "Romance",
+        "maxEstSales": "1 billion",
+        "language": "English"
+    },
+    {
+        "id": 3,
+        "name": "Danielle Steel",
+        "nationality": "American",
+        "img": "https://i.ibb.co/SJhpW0x/Danielle-Steel.jpg",
+        "numberOfBook": 179,
+        "majorWork": "General fiction, Romance",
+        "maxEstSales": "800 million",
+        "language": "English"
+    },
+    {
+        "id": 4,
+        "name": "Georges Simenon",
+        "nationality": "Belgian",
+        "img": "https://i.ibb.co/RB9z0Mh/Georges-Simenon.jpg",
+        "numberOfBook": 570,
+        "majorWork": "Detectives, Maigret, romans dur",
+        "maxEstSales": "500 million",
+        "language": "French"
+    },
+    {
+        "id": 5,
+        "name": "J. K. Rowling",
+        "nationality": "British",
+        "img": "https://i.ibb.co/zF5F5DR/J-K-Rowling.jpg",
+        "numberOfBook": 15,
+        "majorWork": "Harry Potter, crime fiction",
+        "maxEstSales": "500 million",
+        "language": "English"
+    },
+    {
+        "id": 6,
+        "name": "Akira Toriyama",
+        "nationality": "Japanese",
+        "img": "https://i.ibb.co/C1qbm7Q/Akira-Toriyama.jpg",
+        "numberOfBook": 66,
+        "majorWork": "Dragon Ball Super",
+        "maxEstSales": "298 million",
+        "language": "Japanese"
+    },
+    {
+        "id": 7,
+        "name": "Paulo Coelho",
+        "nationality": "Brazilian",
+        "img": "https://i.ibb.co/VqLDT86/Paulo-Coelho.jpg",
+        "numberOfBook": 28,
+        "majorWork": "The Alchemist",
+        "maxEstSales": "225 million",
+        "language": "Portuguese"
+    },
+    {
+        "id": 8,
+        "name": "Robindronath Tagore",
+        "nationality": "Indian bangali",
+        "img": "https://i.ibb.co/XkMGvH5/Robindronath-Tagore.jpg",
+        "numberOfBook": 200,
+        "majorWork": "Gitanjali",
+        "maxEstSales": "3 billion",
+        "language": "Bangla"
+    },
+    {
+        "id": 9,
+        "name": "Kazi Nazrul Islam",
+        "nationality": "Bangaladeshi",
+        "img": "https://i.ibb.co/xhpytZc/kazi-nazrul-islam.jpg",
+        "numberOfBook": 200,
+        "majorWork": "Bidrohi, aggnibina",
+        "maxEstSales": "2 billion",
+        "language": "Bangla"
+    },
+    {
+        "id": 10,
+        "name": "Jin Yong",
+        "nationality": "Chinese",
+        "img": "https://i.ibb.co/Tk1wRT1/Jin-Yong.jpg",
+        "numberOfBook": 15,
+        "majorWork": "Wuxia",
+        "maxEstSales": "300 million",
+        "language": "Chinese"
+    },
+    {
+        "id": 11,
+        "name": "Karl May",
+        "nationality": "German",
+        "img": "https://i.ibb.co/s6RDZbD/Karl-May-in-1906-Photo-courtesy-Karl-May-Museum-Radebeul-Germany.jpg",
+        "numberOfBook": 80,
+        "majorWork": "Western, adventure",
+        "maxEstSales": "200 million",
+        "language": "German"
+    },
+    {
+        "id": 12,
+        "name": "Carter Brown",
+        "nationality": "Australian",
+        "img": "https://i.ibb.co/QNTG288/Carter-Brown.jpg",
+        "numberOfBook": 20,
+        "majorWork": "Detective",
+        "maxEstSales": "300 million",
+        "language": "English"
+    },
+    {
+        "id": 13,
+        "name": "Astrid Lindgren",
+        "nationality": "Swedish",
+        "img": "https://i.ibb.co/5rw50M7/Astrid-Lindgren.jpg",
+        "numberOfBook": 100,
+        "majorWork": "Childrens literature",
+        "maxEstSales": "165 million",
+        "language": "Swedish"
+    },
+    {
+        "id": 14,
+        "name": "Stephenie Meyer",
+        "nationality": "American",
+        "img": "https://i.ibb.co/kJnGqFh/Stephenie-Meyer.jpg",
+        "numberOfBook": 6,
+        "majorWork": "Romance",
+        "maxEstSales": "116 million",
+        "language": "English"
+    },
+    {
+        "id": 15,
+        "name": "Denise Robins",
+        "nationality": "tBritish",
+        "img": "https://i.ibb.co/H7xVjgs/Denise-Robins.jpg",
+        "numberOfBook": 200,
+        "majorWork": "Romance",
+        "maxEstSales": "116 million",
+        "language": "English"
+    }
+]

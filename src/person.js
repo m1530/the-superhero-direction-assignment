@@ -1,0 +1,17 @@
+const writer = [
+    { id: 1, name: 'William Shakespeare', nationality: 'English', img: 'https://ibb.co/LQd8Yb6', numberOfBook: 42, majorWork: 'Macbeth', maxEstSales: '4 billion', language: 'English' },
+    { id: 2, name: 'Barbara Cartland', nationality: 'English', img: 'https://ibb.co/rvkYMtw', numberOfBook: 723, majorWork: 'Romance', maxEstSales: '1 billion', language: 'English' },
+    { id: 3, name: 'Danielle Steel', nationality: 'American', img: 'https://ibb.co/HXWQ1Y2', numberOfBook: 179, majorWork: 'General fiction, Romance', maxEstSales: '800 million', language: 'English' },
+    { id: 4, name: 'Georges Simenon', nationality: 'Belgian', img: 'https://ibb.co/NmsZjk1', numberOfBook: 570, majorWork: 'Detectives, Maigret, romans dur', maxEstSales: '500 million', language: 'French' },
+    { id: 5, name: 'J. K. Rowling', nationality: 'British', img: 'https://ibb.co/r3t3tN6', numberOfBook: 15, majorWork: 'Harry Potter, crime fiction', maxEstSales: '500 million', language: 'English' },
+    { id: 6, name: 'Akira Toriyama', nationality: 'Japanese', img: 'https://ibb.co/X297jst', numberOfBook: 66, majorWork: 'Dragon Ball Super', maxEstSales: '298 million', language: 'Japanese' },
+    { id: 7, name: 'Paulo Coelho', nationality: 'Brazilian', img: 'https://ibb.co/YLN8hGg', numberOfBook: 28, majorWork: 'The Alchemist', maxEstSales: '225 million', language: 'Portuguese' },
+    { id: 8, name: 'Robindronath Tagore', nationality: 'Indian bangali', img: 'https://ibb.co/rfNX19p', numberOfBook: 200, majorWork: 'Gitanjali', maxEstSales: '3 billion', language: 'Bangla' },
+    { id: 9, name: 'Kazi Nazrul Islam', nationality: 'Bangaladeshi', img: 'https://ibb.co/kKRpsZr', numberOfBook: 200, majorWork: 'Bidrohi, aggnibina', maxEstSales: '2 billion', language: 'Bangla' },
+    { id: 10, name: 'Jin Yong', nationality: 'Chinese', img: 'https://ibb.co/jTz8G5z', numberOfBook: 15, majorWork: 'Wuxia', maxEstSales: '300 million', language: 'Chinese' },
+    { id: 11, name: 'Karl May', nationality: 'German', img: 'https://ibb.co/yYPMrdM', numberOfBook: 80, majorWork: 'Western, adventure', maxEstSales: '200 million', language: 'German' },
+    { id: 12, name: 'Carter Brown', nationality: 'Australian', img: 'https://ibb.co/zRBwy88', numberOfBook: 20, majorWork: 'Detective', maxEstSales: '300 million', language: 'English' },
+    { id: 13, name: 'Astrid Lindgren', nationality: 'Swedish', img: 'https://ibb.co/gShD2jn', numberOfBook: 100, majorWork: 'Childrens literature', maxEstSales: '165 million', language: 'Swedish' },
+    { id: 14, name: 'Stephenie Meyer', nationality: 'American', img: 'https://ibb.co/1MV0Rx9', numberOfBook: 6, majorWork: 'Romance', maxEstSales: '116 million', language: 'English' },
+    { id: 15, name: 'Denise Robins', nationality: '	British', img: 'https://ibb.co/y0YXrs1', numberOfBook: 200, majorWork: 'Romance', maxEstSales: '116 million', language: 'English' },
+]
