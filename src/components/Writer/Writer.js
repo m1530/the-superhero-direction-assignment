@@ -4,11 +4,13 @@ import { faHeart } from '@fortawesome/free-solid-svg-icons'
 import './Writer.css';
 
 const Writer = (props) => {
-    //console.log(props.writer);
+    //fontawesome icon generate
     const icon = <FontAwesomeIcon className="icon-color" icon={faHeart} />
+    //destructuring array of object
     const { name, img, language, numberOfBook, majorWork, maxEstSales } = props.writer;
 
     return (
+        //display writer in card
         <div className="writer-card">
             <div className="writer-img">
                 <img src={img} alt="" />

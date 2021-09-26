@@ -1,3 +1,4 @@
+ /* writer card style */
 .writer-card{
     border-radius: 6px;
     margin: 1rem;
@@ -6,13 +7,14 @@
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     padding: 15px;
 }
+/* writer image style */
 .writer-img img{
     width: 160px;
     height: 160px;
     border-radius: 50%;
     border: 1px solid lightseagreen;
 }
-
+/* button style */
 .make-favorite-btn{
     border:none;
     color:#ffffff;
@@ -23,6 +25,7 @@
     box-shadow: 0 13px 26px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.16);
     cursor: pointer;
   }
+  /* icon color */
   .icon-color{
       color: #e4b32c;
   }

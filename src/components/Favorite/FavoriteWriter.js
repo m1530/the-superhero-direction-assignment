@@ -3,6 +3,7 @@ import './FavoriteWriter.css';
 
 const FavoriteWriter = (props) => {
     //console.log(props.favorites)
+    // destructure props
     const { favorites } = props;
     let names = [];
     let TotalBooks = 0;
@@ -22,6 +23,7 @@ const FavoriteWriter = (props) => {
             </div>
             <div>
                 {
+                    // display writer name in ui
                     names.map((name, i) => (
                         <p key={i} className="writer-name favorite-writer">
                             {name}
